@@ -1,0 +1,52 @@
+commit 3a47871bdc0618a3d809505590cdf4732e604b1c
+Merge: 932a81a f63b313
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 18:47:52 2025 -0700
+
+    fix merge conflict
+
+commit 932a81a691e88ff43fe7c9c4df5361f5702e4a8f
+Merge: 5a323d7 0d19149
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 18:37:55 2025 -0700
+
+    resolve merge conflict
+
+commit 0d19149fd33233fd4d2d7cb8d65807d20b939800
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 18:24:54 2025 -0700
+
+    Added index with Movie question
+
+commit 5a323d7ee3fd7dac8fa585a9a868a9c5c2a15d06
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 16:06:06 2025 -0700
+
+    Updated index with favorite food
+
+commit 9f86dc6583f4162e183e91924038a5941d8bd194
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 16:01:57 2025 -0700
+
+    Added readme,
+
+commit f63b313cc42ec59d60c68eb1cdb14cb91f4eb7ac
+Merge: 1d2bfc0 1ece9ab
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 15:57:47 2025 -0700
+
+    Merge pull request #1 from Samir-S1/info-fill
+    
+    added required fields in index
+
+commit 1ece9ab8b0c24e3a104e3d1f3749fbb93564493d
+Author: Samir Sheikh <ssheik18@calstatela.edu>
+Date:   Thu Sep 4 15:54:39 2025 -0700
+
+    added required fields in index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
